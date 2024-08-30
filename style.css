@@ -6,3 +6,7 @@ body{
 sub, rt {
   font-size: 40%;
 }
+
+ruby {
+  ruby-align: start;
+}

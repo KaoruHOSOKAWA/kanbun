@@ -25,7 +25,7 @@ class Kanbun {
                 rubyFlag = true;
             } else if (char === ']') {
                 if (rubyFlag) {
-                    this.myPrint(`<ruby>${charsTemp}<rt>${charsStack}</rt></ruby>`);
+                    this.myPrint(`<ruby>${charsTemp}<rt>${charsStack}</ruby>`);
                     rubyFlag = false;
                 } else {
                     this.myPrint(`<sub>${charsStack}</sub>`);
