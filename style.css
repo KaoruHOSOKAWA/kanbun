@@ -1,0 +1,8 @@
+body{
+  writing-mode: vertical-rl;
+  font-size: 28px;
+}
+
+sub, rt {
+  font-size: 40%;
+}
