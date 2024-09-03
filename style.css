@@ -1,12 +1,13 @@
 body{
   writing-mode: vertical-rl;
-  font-size: 28px;
+  /* font-size: 28px; */
+  font-family: serif;
 }
 
-sub, rt {
+/* sub, rt {
   font-size: 40%;
-}
+} */
 
-ruby {
+/* ruby {
   ruby-align: start;
-}
+} */
